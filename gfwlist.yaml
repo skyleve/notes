@@ -128,6 +128,8 @@ payload:
   - DOMAIN-SUFFIX,xfinity.com
   - DOMAIN-SUFFIX,zattoo.com
   - DOMAIN-SUFFIX,zim.vn
+  - DOMAIN-SUFFIX,terabox.com
+  - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,abebooks.com
   - DOMAIN-SUFFIX,43110.cf
@@ -779,6 +781,7 @@ payload:
   - DOMAIN-SUFFIX,googlesyndication.com
   - DOMAIN-SUFFIX,googleanalytics.com
   - DOMAIN-SUFFIX,youtubekids.com
+  - DOMAIN-SUFFIX,translate.goog
   - DOMAIN-SUFFIX,naughtyamerica.com
   - DOMAIN-SUFFIX,static01.nyt.com
   - DOMAIN-SUFFIX,nyt.com
@@ -816,6 +819,7 @@ payload:
   - DOMAIN-SUFFIX,gov.tw
   - DOMAIN-SUFFIX,gov.taipei
   - DOMAIN-SUFFIX,kinmen.org.tw
+  - DOMAIN-SUFFIX,krtco.com.tw
   - DOMAIN-SUFFIX,data.flurry.com
   - DOMAIN-SUFFIX,bid.yahoo.com
   - DOMAIN-SUFFIX,yahoo.co.jp
@@ -5458,9 +5462,12 @@ payload:
   - DOMAIN-SUFFIX,teepr.com
   - DOMAIN-SUFFIX,onesto.re
   - DOMAIN-SUFFIX,onestore.co.kr
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,cex.io
   - DOMAIN-SUFFIX,xn--4gq171p.com
   - DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
   - DOMAIN-SUFFIX,xn--i2ru8q2qg.com
   - DOMAIN-SUFFIX,xn--oiq.cc
   - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
   - DOMAIN-SUFFIX,xn--90wwvt03e.com
+
