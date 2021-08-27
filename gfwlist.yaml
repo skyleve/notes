@@ -217,6 +217,7 @@ payload:
   - DOMAIN-SUFFIX,picacomic.com
   - DOMAIN-SUFFIX,pincong.rocks
   - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-SUFFIX,potato.im
   - DOMAIN-SUFFIX,premproxy.com
   - DOMAIN-SUFFIX,prism-break.org
@@ -2095,7 +2096,6 @@ payload:
   - DOMAIN-SUFFIX,flickrhivemind.net
   - DOMAIN-SUFFIX,flickriver.com
   - DOMAIN-SUFFIX,fling.com
-  - DOMAIN-SUFFIX,flipkart.com
   - DOMAIN-SUFFIX,flog.tw
   - DOMAIN-SUFFIX,flyvpn.com
   - DOMAIN-SUFFIX,cn.fmnnow.com
@@ -2137,7 +2137,7 @@ payload:
   - DOMAIN-SUFFIX,kineox.free.fr
   - DOMAIN-SUFFIX,tibetlibre.free.fr
   - DOMAIN-SUFFIX,freealim.com
-  - DOMAIN-SUFFIX,whitebear.freebearblog.org
+  - DOMAIN-SUFFIX,freebearblog.org
   - DOMAIN-SUFFIX,freebrowser.org
   - DOMAIN-SUFFIX,freechal.com
   - DOMAIN-SUFFIX,freedomchina.info
@@ -2157,7 +2157,7 @@ payload:
   - DOMAIN-SUFFIX,freemuse.org
   - DOMAIN-SUFFIX,freenet-china.org
   - DOMAIN-SUFFIX,freenewscn.com
-  - DOMAIN-SUFFIX,cn.freeones.com
+  - DOMAIN-SUFFIX,freeones.com
   - DOMAIN-SUFFIX,freeoz.org
   - DOMAIN-SUFFIX,freessh.us
   - DOMAIN-SUFFIX,free-ssh.com
@@ -2183,11 +2183,11 @@ payload:
   - DOMAIN-SUFFIX,friends-of-tibet.org
   - DOMAIN-SUFFIX,friendsoftibet.org
   - DOMAIN-SUFFIX,freechina.net
-  - DOMAIN-SUFFIX,www.zensur.freerk.com
+  - DOMAIN-SUFFIX,freerk.com
   - DOMAIN-SUFFIX,freevpn.nl
   - DOMAIN-SUFFIX,freeyellow.com
-  - DOMAIN-SUFFIX,hk.frienddy.com
-  - DOMAIN-SUFFIX,adult.friendfinder.com
+  - DOMAIN-SUFFIX,frienddy.com
+  - DOMAIN-SUFFIX,friendfinder.com
   - DOMAIN-SUFFIX,fring.com
   - DOMAIN-SUFFIX,fromchinatousa.net
   - DOMAIN-SUFFIX,frommel.net
@@ -3115,7 +3115,7 @@ payload:
   - DOMAIN-SUFFIX,mansion.com
   - DOMAIN-SUFFIX,mansionpoker.com
   - DOMAIN-SUFFIX,martau.com
-  - DOMAIN-SUFFIX,blog.martinoei.com
+  - DOMAIN-SUFFIX,martinoei.com
   - DOMAIN-SUFFIX,martsangkagyuofficial.org
   - DOMAIN-SUFFIX,maruta.be
   - DOMAIN-SUFFIX,marxist.com
@@ -3142,7 +3142,7 @@ payload:
   - DOMAIN-SUFFIX,meetav.com
   - DOMAIN-SUFFIX,meetup.com
   - DOMAIN-SUFFIX,mefeedia.com
-  - DOMAIN-SUFFIX,jihadintel.meforum.org
+  - DOMAIN-SUFFIX,meforum.org
   - DOMAIN-SUFFIX,mega.nz
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,megaproxy.com
@@ -3165,7 +3165,7 @@ payload:
   - DOMAIN-SUFFIX,mesotw.com
   - DOMAIN-SUFFIX,metacafe.com
   - DOMAIN-SUFFIX,meteorshowersonline.com
-  - DOMAIN-SUFFIX,www.metro.taipei
+  - DOMAIN-SUFFIX,metro.taipei
   - DOMAIN-SUFFIX,metrohk.com.hk
   - DOMAIN-SUFFIX,metrolife.ca
   - DOMAIN-SUFFIX,metroradio.com.hk
@@ -3175,9 +3175,8 @@ payload:
   - DOMAIN-SUFFIX,mgstage.com
   - DOMAIN-SUFFIX,mh4u.org
   - DOMAIN-SUFFIX,mhradio.org
-  - DOMAIN-SUFFIX,michaelanti.com
   - DOMAIN-SUFFIX,michaelmarketl.com
-  - DOMAIN-SUFFIX,bbs.mikocon.com
+  - DOMAIN-SUFFIX,mikocon.com
   - DOMAIN-SUFFIX,microvpn.com
   - DOMAIN-SUFFIX,middle-way.net
   - DOMAIN-SUFFIX,mihk.hk
@@ -3237,7 +3236,7 @@ payload:
   - DOMAIN-SUFFIX,mobypicture.com
   - DOMAIN-SUFFIX,moby.to
   - DOMAIN-SUFFIX,moeerolibrary.com
-  - DOMAIN-SUFFIX,wiki.moegirl.org
+  - DOMAIN-SUFFIX,moegirl.org
   - DOMAIN-SUFFIX,mofaxiehui.com
   - DOMAIN-SUFFIX,mofos.com
   - DOMAIN-SUFFIX,mog.com
@@ -3245,11 +3244,12 @@ payload:
   - DOMAIN-SUFFIX,monocloud.me
   - DOMAIN-SUFFIX,mondex.org
   - DOMAIN-SUFFIX,money-link.com.tw
-  - DOMAIN-SUFFIX,www.monlamit.org
+  - DOMAIN-SUFFIX,monlamit.org
   - DOMAIN-SUFFIX,moonbbs.com
-  - DOMAIN-SUFFIX,c1522.mooo.com
+  - DOMAIN-SUFFIX,moonbbs.info
+  - DOMAIN-SUFFIX,mooo.com
   - DOMAIN-SUFFIX,monitorchina.org
-  - DOMAIN-SUFFIX,bbs.morbell.com
+  - DOMAIN-SUFFIX,morbell.com
   - DOMAIN-SUFFIX,morningsun.org
   - DOMAIN-SUFFIX,moroneta.com
   - DOMAIN-SUFFIX,motherless.com
@@ -3286,7 +3286,7 @@ payload:
   - DOMAIN-SUFFIX,my-formosa.com
   - DOMAIN-SUFFIX,my-proxy.com
   - DOMAIN-SUFFIX,my-private-network.co.uk
-  - DOMAIN-SUFFIX,forum.my903.com
+  - DOMAIN-SUFFIX,my903.com
   - DOMAIN-SUFFIX,myactimes.com
   - DOMAIN-SUFFIX,myanniu.com
   - DOMAIN-SUFFIX,myaudiocast.com
@@ -5464,10 +5464,12 @@ payload:
   - DOMAIN-SUFFIX,onestore.co.kr
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,cex.io
+  - DOMAIN-SUFFIX,gdaily.org
+  - DOMAIN-SUFFIX,firstpost.com
+  - DOMAIN-SUFFIX,xhcdn.com
   - DOMAIN-SUFFIX,xn--4gq171p.com
   - DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
   - DOMAIN-SUFFIX,xn--i2ru8q2qg.com
   - DOMAIN-SUFFIX,xn--oiq.cc
   - DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
   - DOMAIN-SUFFIX,xn--90wwvt03e.com
-
